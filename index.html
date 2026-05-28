@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cine Digital | Catálogo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">🍿 Cine Digital</div>
+        <div class="menu">
+            <a href="#" id="link-inicio">Inicio</a>
+            <a href="#" id="link-peliculas">Películas</a>
+            <a href="#" id="link-series">Series</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <h1>Nuestro Catálogo</h1>
+        <p>Explorá la colección completa de películas y series disponibles.</p>
+    </header>
+
+    <main class="contenedor">
+        <h2 id="titulo-seccion" class="titulo-seccion">Agregadas Recientemente</h2>
+        
+        <div id="grilla-catalogo" class="grilla"></div>
+
+        <!-- Botón Cargar Más -->
+        <div style="text-align: center; margin-top: 40px;">
+            <button id="btn-cargar-mas" class="btn-pedir" style="display:none; padding: 12px 30px; font-size: 1.2rem; cursor:pointer; border:none; margin: 0 auto; width: auto;">
+                Cargar más títulos
+            </button>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
