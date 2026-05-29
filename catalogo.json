@@ -1,0 +1,602 @@
+[
+  {
+    "tipo": "pelicula",
+    "titulo": "10 x10 Una verdad inquietante",
+    "genero": "Terror",
+    "imagen": "caratulas/10 x10 Una verdad inquietante.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "12 horas para sobrevivir el inicio",
+    "genero": "Terror",
+    "imagen": "caratulas/12 horas para sobrevivir el inicio.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "12 valientes",
+    "genero": "Acción",
+    "imagen": "caratulas/12 valientes.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "22 july",
+    "genero": "Drama",
+    "imagen": "caratulas/22 july.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "42 La verdadera historia de una leyenda americana (2013)",
+    "genero": "Drama",
+    "imagen": "caratulas/42 La verdadera historia de una leyenda americana (2013).webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "211 el gran asalto",
+    "genero": "Acción",
+    "imagen": "caratulas/211 el gran asalto.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "A todos los chicos que me enamore",
+    "genero": "Drama",
+    "imagen": "caratulas/A todos los chicos que me enamore.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Acrimony",
+    "genero": "Terror",
+    "imagen": "caratulas/Acrimony.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Action point",
+    "genero": "Comedia",
+    "imagen": "caratulas/Action point.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Actos de violencia",
+    "genero": "Acción",
+    "imagen": "caratulas/Actos de violencia.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Admiradora secreta (1985)",
+    "genero": "Comedia",
+    "imagen": "caratulas/Admiradora secreta (1985).webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "A dos metros de ti",
+    "genero": "Drama",
+    "imagen": "caratulas/A dos metros de ti.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "After",
+    "genero": "Drama",
+    "imagen": "caratulas/After.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "A ganar",
+    "genero": "Drama",
+    "imagen": "caratulas/A ganar.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "A la deriva",
+    "genero": "Drama",
+    "imagen": "caratulas/A la deriva.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Aftermath",
+    "genero": "Drama",
+    "imagen": "caratulas/Aftermath.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Alex strangelove",
+    "genero": "Comedia Drama",
+    "imagen": "caratulas/Alex strangelove.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Alfa",
+    "genero": "Acción",
+    "imagen": "caratulas/Alfa.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Aliados",
+    "genero": "Acción Drama",
+    "imagen": "caratulas/Aliados.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Alien Warfare",
+    "genero": "Acción",
+    "imagen": "caratulas/Alien Warfare.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Alita",
+    "genero": "Acción",
+    "imagen": "caratulas/Alita.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Along with the gods the last 49 days",
+    "genero": "Acción Ficción",
+    "imagen": "caratulas/Along with the gods the last 49 days.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "American animals",
+    "genero": "Acción",
+    "imagen": "caratulas/American animals.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "American Curious (2018)",
+    "genero": "Comedia Drama",
+    "imagen": "caratulas/American Curious (2018).webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Amor de medianoche",
+    "genero": "Drama",
+    "imagen": "caratulas/Amor de medianoche.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "Amor de vinilo",
+    "genero": "Comedia Drama",
+    "imagen": "caratulas/Amor de vinilo.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  },
+  {
+    "tipo": "pelicula",
+    "titulo": "xxxxxxxxxxxx",
+    "genero": "xxxxx",
+    "imagen": "caratulas/xxxxxxxxxxxxx.webp"
+  }
+]

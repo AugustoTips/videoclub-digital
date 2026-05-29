@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cine Digital | Catálogo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">🍿 Cine Digital</div>
+        <div class="menu">
+            <a href="#" id="link-inicio">Inicio</a>
+            <a href="#" id="link-peliculas">Películas</a>
+            <a href="#" id="link-series">Series</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <h1>Nuestro Catálogo</h1>
+        <p>Explorá la colección completa de películas y series disponibles.</p>
+    </header>
+
+    <main class="contenedor">
+        <h2 id="titulo-seccion" class="titulo-seccion">Agregadas Recientemente</h2>
+        
+        <div id="submenu-generos" class="submenu" style="display: none;">
+            <button class="btn-genero activo" data-genero="Todos">Todos</button>
+            <button class="btn-genero" data-genero="Acción">Acción</button>
+            <button class="btn-genero" data-genero="Comedia">Comedia</button>
+            <button class="btn-genero" data-genero="Drama">Drama</button>
+            <button class="btn-genero" data-genero="Ficción">Ficción</button>
+            <button class="btn-genero" data-genero="Terror">Terror</button>
+            <button class="btn-genero" data-genero="Infantil">Infantil</button>
+            <button class="btn-genero" data-genero="Anime">Anime</button>
+            <button class="btn-genero" data-genero="Documentales">Documentales</button>
+        </div>
+        
+        <div id="grilla-catalogo" class="grilla"></div>
+
+        <div style="text-align: center; margin-top: 40px;">
+            <button id="btn-cargar-mas" class="btn-pedir" style="display:none; padding: 12px 30px; font-size: 1.2rem; cursor:pointer; border:none; margin: 0 auto; width: auto;">
+                Cargar más títulos
+            </button>
+        </div>
+    </main>
+
+    <footer style="text-align: center; margin-top: 60px; padding: 40px 20px; background-color: #111; border-top: 1px solid #333;">
+        <h3 style="color: #fff; margin-bottom: 10px;">¿No encontrás lo que buscás?</h3>
+        <p style="color: #aaa; margin-bottom: 10px;">Escribinos con el título que querés ver y lo sumamos al catálogo:</p>
+        
+        <p style="color: #E50914; font-size: 1.2rem; font-weight: bold; margin-bottom: 20px; letter-spacing: 1px;">
+            juanperezcayasta@gmail.com
+        </p>
+        
+        <button id="btn-correo" onclick="gestionarCorreo()" style="display: inline-block; padding: 12px 25px; background-color: #E50914; color: white; border: none; border-radius: 5px; font-weight: bold; font-size: 1rem; cursor: pointer; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+            Pedir por Correo
+        </button>
+
+        <script>
+            function gestionarCorreo() {
+                const correo = "juanperezcayasta@gmail.com";
+                
+                // Copia automáticamente el correo al portapapeles de la PC o celular
+                navigator.clipboard.writeText(correo);
+                
+                // Cambia el diseño del botón temporalmente para avisarle al usuario
+                const boton = document.getElementById("btn-correo");
+                boton.innerText = "¡Correo Copiado!";
+                boton.style.backgroundColor = "#25D366"; // Cambia a verde éxito
+                
+                // Deja que el botón vuelva a su estado original después de 2 segundos
+                setTimeout(() => {
+                    boton.innerText = "Pedir por Correo";
+                    boton.style.backgroundColor = "#E50914";
+                }, 2000);
+
+                // Intenta abrir el cliente de correo de todas formas por si está configurado
+                window.location.href = "mailto:" + correo + "?subject=Pedido%20de%20Película/Serie";
+            }
+        </script>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
